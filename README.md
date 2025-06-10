@@ -4,8 +4,8 @@ Analyzing factors affecting Commercial Flight Delays
 The Problem: Commercial Flight Delays
 The National Aviation Administration (NAA) of the United States is the entity that monitors the airports' operations around the country. During the last few years, the State of New York has presented significant delays in the departure of its flights, and it is beginning to impact the operations of other airports in the country. Most airports claim it is related to some airlines' inefficiencies when boarding passengers, while the airlines link the delays to the lack of sufficient runways. The NAA's main concern is that without an efficient operation, there will be an overall decline in passengers using this means of travel, the government will reduce the investment in the aviation industry, and the NAA will be fined for not completing its tasks.
 
-Your Tasks
-The NAA has hired you as an analytics consultant to review the recent performance of the State of New York commercial flights. You should understand and summarize the current conditions and include recommendations to improve passengers' satisfaction when departing from New York airports. It is also crucial for the NAA to identify when departure delays occur to define additional policies to improve flight operations.
+Tasks
+The NAA has hiredan analytics consultant to review the recent performance of the State of New York commercial flights. Understand and summarize the current conditions and include recommendations to improve passengers' satisfaction when departing from New York airports. It is also crucial for the NAA to identify when departure delays occur to define additional policies to improve flight operations.
 
 Finally, there will be a significant event in Florida on the 6th of January, 2022. The NAA expects many people to travel from New York City that week. We have created a Machine Learning model that predicts the probability of delay of those flights. Your task is to explain what should be the decision that minimizes the risk of taking a delayed flight and recommend the flights with the lowest probability of being delayed.
 
